@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tag-along-frontend",
+    "slug": "tag-along-frontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tag-along-frontend"
+}
